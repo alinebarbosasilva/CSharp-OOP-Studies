@@ -1,0 +1,14 @@
+D:\Orientacao a objetos\03construtor\bin\Debug\net8.0\03construtor.exe
+D:\Orientacao a objetos\03construtor\bin\Debug\net8.0\03construtor.deps.json
+D:\Orientacao a objetos\03construtor\bin\Debug\net8.0\03construtor.runtimeconfig.json
+D:\Orientacao a objetos\03construtor\bin\Debug\net8.0\03construtor.dll
+D:\Orientacao a objetos\03construtor\bin\Debug\net8.0\03construtor.pdb
+D:\Orientacao a objetos\03construtor\obj\Debug\net8.0\03construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orientacao a objetos\03construtor\obj\Debug\net8.0\03construtor.AssemblyInfoInputs.cache
+D:\Orientacao a objetos\03construtor\obj\Debug\net8.0\03construtor.AssemblyInfo.cs
+D:\Orientacao a objetos\03construtor\obj\Debug\net8.0\03construtor.csproj.CoreCompileInputs.cache
+D:\Orientacao a objetos\03construtor\obj\Debug\net8.0\03construtor.dll
+D:\Orientacao a objetos\03construtor\obj\Debug\net8.0\refint\03construtor.dll
+D:\Orientacao a objetos\03construtor\obj\Debug\net8.0\03construtor.pdb
+D:\Orientacao a objetos\03construtor\obj\Debug\net8.0\03construtor.genruntimeconfig.cache
+D:\Orientacao a objetos\03construtor\obj\Debug\net8.0\ref\03construtor.dll

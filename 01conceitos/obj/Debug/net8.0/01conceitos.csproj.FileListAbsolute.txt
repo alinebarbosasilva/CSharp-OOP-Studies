@@ -1,0 +1,14 @@
+D:\Orientacao a objetos\01conceitos\bin\Debug\net8.0\01conceitos.exe
+D:\Orientacao a objetos\01conceitos\bin\Debug\net8.0\01conceitos.deps.json
+D:\Orientacao a objetos\01conceitos\bin\Debug\net8.0\01conceitos.runtimeconfig.json
+D:\Orientacao a objetos\01conceitos\bin\Debug\net8.0\01conceitos.dll
+D:\Orientacao a objetos\01conceitos\bin\Debug\net8.0\01conceitos.pdb
+D:\Orientacao a objetos\01conceitos\obj\Debug\net8.0\01conceitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orientacao a objetos\01conceitos\obj\Debug\net8.0\01conceitos.AssemblyInfoInputs.cache
+D:\Orientacao a objetos\01conceitos\obj\Debug\net8.0\01conceitos.AssemblyInfo.cs
+D:\Orientacao a objetos\01conceitos\obj\Debug\net8.0\01conceitos.csproj.CoreCompileInputs.cache
+D:\Orientacao a objetos\01conceitos\obj\Debug\net8.0\01conceitos.dll
+D:\Orientacao a objetos\01conceitos\obj\Debug\net8.0\refint\01conceitos.dll
+D:\Orientacao a objetos\01conceitos\obj\Debug\net8.0\01conceitos.pdb
+D:\Orientacao a objetos\01conceitos\obj\Debug\net8.0\01conceitos.genruntimeconfig.cache
+D:\Orientacao a objetos\01conceitos\obj\Debug\net8.0\ref\01conceitos.dll

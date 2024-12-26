@@ -1,0 +1,14 @@
+D:\Orientacao a objetos\07abstracao\bin\Debug\net8.0\07abstracao.exe
+D:\Orientacao a objetos\07abstracao\bin\Debug\net8.0\07abstracao.deps.json
+D:\Orientacao a objetos\07abstracao\bin\Debug\net8.0\07abstracao.runtimeconfig.json
+D:\Orientacao a objetos\07abstracao\bin\Debug\net8.0\07abstracao.dll
+D:\Orientacao a objetos\07abstracao\bin\Debug\net8.0\07abstracao.pdb
+D:\Orientacao a objetos\07abstracao\obj\Debug\net8.0\07abstracao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orientacao a objetos\07abstracao\obj\Debug\net8.0\07abstracao.AssemblyInfoInputs.cache
+D:\Orientacao a objetos\07abstracao\obj\Debug\net8.0\07abstracao.AssemblyInfo.cs
+D:\Orientacao a objetos\07abstracao\obj\Debug\net8.0\07abstracao.csproj.CoreCompileInputs.cache
+D:\Orientacao a objetos\07abstracao\obj\Debug\net8.0\07abstracao.dll
+D:\Orientacao a objetos\07abstracao\obj\Debug\net8.0\refint\07abstracao.dll
+D:\Orientacao a objetos\07abstracao\obj\Debug\net8.0\07abstracao.pdb
+D:\Orientacao a objetos\07abstracao\obj\Debug\net8.0\07abstracao.genruntimeconfig.cache
+D:\Orientacao a objetos\07abstracao\obj\Debug\net8.0\ref\07abstracao.dll

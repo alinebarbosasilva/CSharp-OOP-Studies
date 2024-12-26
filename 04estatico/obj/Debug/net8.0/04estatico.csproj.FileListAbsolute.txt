@@ -1,0 +1,14 @@
+D:\Orientacao a objetos\04estatico\bin\Debug\net8.0\04estatico.exe
+D:\Orientacao a objetos\04estatico\bin\Debug\net8.0\04estatico.deps.json
+D:\Orientacao a objetos\04estatico\bin\Debug\net8.0\04estatico.runtimeconfig.json
+D:\Orientacao a objetos\04estatico\bin\Debug\net8.0\04estatico.dll
+D:\Orientacao a objetos\04estatico\bin\Debug\net8.0\04estatico.pdb
+D:\Orientacao a objetos\04estatico\obj\Debug\net8.0\04estatico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orientacao a objetos\04estatico\obj\Debug\net8.0\04estatico.AssemblyInfoInputs.cache
+D:\Orientacao a objetos\04estatico\obj\Debug\net8.0\04estatico.AssemblyInfo.cs
+D:\Orientacao a objetos\04estatico\obj\Debug\net8.0\04estatico.csproj.CoreCompileInputs.cache
+D:\Orientacao a objetos\04estatico\obj\Debug\net8.0\04estatico.dll
+D:\Orientacao a objetos\04estatico\obj\Debug\net8.0\refint\04estatico.dll
+D:\Orientacao a objetos\04estatico\obj\Debug\net8.0\04estatico.pdb
+D:\Orientacao a objetos\04estatico\obj\Debug\net8.0\04estatico.genruntimeconfig.cache
+D:\Orientacao a objetos\04estatico\obj\Debug\net8.0\ref\04estatico.dll

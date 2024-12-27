@@ -1,0 +1,15 @@
+D:\Orientacao a objetos\01exercicio\bin\Debug\net8.0\01exercicio.exe
+D:\Orientacao a objetos\01exercicio\bin\Debug\net8.0\01exercicio.deps.json
+D:\Orientacao a objetos\01exercicio\bin\Debug\net8.0\01exercicio.runtimeconfig.json
+D:\Orientacao a objetos\01exercicio\bin\Debug\net8.0\01exercicio.dll
+D:\Orientacao a objetos\01exercicio\bin\Debug\net8.0\01exercicio.pdb
+D:\Orientacao a objetos\01exercicio\obj\Debug\net8.0\01exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orientacao a objetos\01exercicio\obj\Debug\net8.0\01exercicio.AssemblyInfoInputs.cache
+D:\Orientacao a objetos\01exercicio\obj\Debug\net8.0\01exercicio.AssemblyInfo.cs
+D:\Orientacao a objetos\01exercicio\obj\Debug\net8.0\01exercicio.csproj.CoreCompileInputs.cache
+D:\Orientacao a objetos\01exercicio\obj\Debug\net8.0\01exercicio.sourcelink.json
+D:\Orientacao a objetos\01exercicio\obj\Debug\net8.0\01exercicio.dll
+D:\Orientacao a objetos\01exercicio\obj\Debug\net8.0\refint\01exercicio.dll
+D:\Orientacao a objetos\01exercicio\obj\Debug\net8.0\01exercicio.pdb
+D:\Orientacao a objetos\01exercicio\obj\Debug\net8.0\01exercicio.genruntimeconfig.cache
+D:\Orientacao a objetos\01exercicio\obj\Debug\net8.0\ref\01exercicio.dll
